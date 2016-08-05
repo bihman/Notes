@@ -5,12 +5,9 @@ vector<vector<int> > array(m); //这个m一定不能少
 for(int i=0;i<m;i++) {
     array[i].resize(n);
 }
-1
-2
-3
-4
-5
-  测试代码：
+
+
+测试代码：
 
 #include<iostream>
 #include<vector>
